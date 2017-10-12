@@ -8,3 +8,7 @@ class Dog
     puts "The Dog is sitting"
   end 
 end
+
+class Person
+  
+end
